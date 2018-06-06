@@ -1,2 +1,4 @@
 # Tic_Tac_Toe
-simple but amusing...Multiplayer game...
+
+# Description
+This a Simple Tic-Tac-Toe game implemented in C++ programming language.
